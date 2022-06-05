@@ -1,0 +1,16 @@
+,method,model,n_components,n_neighbors,accuracy,train,test,precision,recall,f1
+0,TfIdf-max_features,SVM,5,-1,0.30125,unbalanced,unbalanced,0.25758476690082105,0.30125,0.24933757929384467
+1,TfIdf-max_features,RF,5,-1,0.3475,unbalanced,unbalanced,0.3442493092863364,0.3475,0.3436898854664106
+2,TfIdf-max_features,NB,5,-1,0.359375,unbalanced,unbalanced,0.3324925494990433,0.359375,0.2866401957017534
+3,TfIdf-max_features,SVM,25,-1,0.279375,unbalanced,unbalanced,0.2935661387144015,0.279375,0.24229478212214633
+4,TfIdf-max_features,RF,25,-1,0.36375,unbalanced,unbalanced,0.36696958230693566,0.36375,0.35893494493204686
+5,TfIdf-max_features,NB,25,-1,0.369375,unbalanced,unbalanced,0.324430615483237,0.369375,0.3274319710631621
+6,TfIdf-max_features,SVM,45,-1,0.358125,unbalanced,unbalanced,0.39878337131118924,0.358125,0.3199811091772649
+7,TfIdf-max_features,RF,45,-1,0.4175,unbalanced,unbalanced,0.4259423453706369,0.4175,0.41004830790466895
+8,TfIdf-max_features,NB,45,-1,0.36,unbalanced,unbalanced,0.31320343427610686,0.36,0.3144417389072267
+9,TfIdf-max_features,SVM,65,-1,0.275,unbalanced,unbalanced,0.2891209828285696,0.275,0.21688854267683827
+10,TfIdf-max_features,RF,65,-1,0.41375,unbalanced,unbalanced,0.41877096729293084,0.41375,0.4039123593611991
+11,TfIdf-max_features,NB,65,-1,0.366875,unbalanced,unbalanced,0.3231081638874956,0.366875,0.321195067988135
+12,TfIdf-max_features,SVM,85,-1,0.259375,unbalanced,unbalanced,0.25969851515751696,0.259375,0.2041000887023727
+13,TfIdf-max_features,RF,85,-1,0.4025,unbalanced,unbalanced,0.39293319871527355,0.4025,0.3902603046105202
+14,TfIdf-max_features,NB,85,-1,0.37,unbalanced,unbalanced,0.34208944439649236,0.37,0.33608045000562287

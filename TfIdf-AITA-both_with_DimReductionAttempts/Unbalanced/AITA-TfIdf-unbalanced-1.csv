@@ -1,0 +1,16 @@
+,method,model,n_components,n_neighbors,accuracy,train,test,precision,recall,f1
+0,TfIdf-max_features,SVM,5,-1,0.176,unbalanced,unbalanced,0.3303465197796695,0.176,0.05346894662123793
+1,TfIdf-max_features,RF,5,-1,0.563,unbalanced,unbalanced,0.4386674476810709,0.563,0.4704239648138069
+2,TfIdf-max_features,NB,5,-1,0.476,unbalanced,unbalanced,0.44465401809256855,0.476,0.4338541179490521
+3,TfIdf-max_features,SVM,25,-1,0.4895,unbalanced,unbalanced,0.42555109418508363,0.4895,0.45309816037968004
+4,TfIdf-max_features,RF,25,-1,0.5785,unbalanced,unbalanced,0.4558756190511321,0.5785,0.47693796016202633
+5,TfIdf-max_features,NB,25,-1,0.3005,unbalanced,unbalanced,0.47988296865724955,0.3005,0.3514418466882757
+6,TfIdf-max_features,SVM,45,-1,0.199,unbalanced,unbalanced,0.3774628723807877,0.199,0.13300507863279767
+7,TfIdf-max_features,RF,45,-1,0.5835,unbalanced,unbalanced,0.46028518763685783,0.5835,0.4745401999590895
+8,TfIdf-max_features,NB,45,-1,0.21,unbalanced,unbalanced,0.4800575476790017,0.21,0.266702013979218
+9,TfIdf-max_features,SVM,65,-1,0.61,unbalanced,unbalanced,0.37629170879676443,0.61,0.4640128771911787
+10,TfIdf-max_features,RF,65,-1,0.599,unbalanced,unbalanced,0.47588479361014574,0.599,0.48799222342827214
+11,TfIdf-max_features,NB,65,-1,0.201,unbalanced,unbalanced,0.4869800504198454,0.201,0.25093671126117517
+12,TfIdf-max_features,SVM,85,-1,0.3225,unbalanced,unbalanced,0.3692147054023176,0.3225,0.3187355261959464
+13,TfIdf-max_features,RF,85,-1,0.6025,unbalanced,unbalanced,0.48253523372053836,0.6025,0.4900640783549161
+14,TfIdf-max_features,NB,85,-1,0.1795,unbalanced,unbalanced,0.4787310719078497,0.1795,0.22907273865183866
