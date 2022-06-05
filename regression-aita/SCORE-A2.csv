@@ -1,6 +1,0 @@
-,method,model,n_components,n_neighbors,mse,r2,train,test
-0,TfIdf-max_features,Ridge,500,-1,7466652.668918178,0.16063581650738024,balanced,balanced
-1,TfIdf-max_features,Ridge,500,-1,7466652.668918178,0.16063581650738024,balanced,balanced
-2,TfIdf-max_features,DT,500,-1,14149001.4360838,-0.5905607993621973,balanced,balanced
-3,TfIdf-max_features,Ridge,500,-1,4079717.9517107653,0.09114393776551499,unbalanced,unbalanced
-4,TfIdf-max_features,DT,500,-1,4533455.690403947,-0.00993714170051474,unbalanced,unbalanced
